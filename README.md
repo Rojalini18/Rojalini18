@@ -30,12 +30,10 @@
 <br/>
 <br/>
 <br/>
-<br/>
-
-<p  ><br/>&nbsp;<img align="left" src="https://github-readme-stats.vercel.app/api?username=Rojalini18&show_icons=true&locale=en" alt="rojalini18" /></p>
+<p  ><br/><br/>&nbsp;<img align="left" src="https://github-readme-stats.vercel.app/api?username=Rojalini18&show_icons=true&locale=en" alt="rojalini18" /></p>
 <br/>
 <br/>
 <br/>
 <br/>&nbsp;
 <br/>
-<p>&nbsp;<img align="left" src="https://github-readme-streak-stats.herokuapp.com/?user=rojalini18&" alt="rojalini18" /></p>
+<p>&nbsp;<br/><br/><img align="left" src="https://github-readme-streak-stats.herokuapp.com/?user=rojalini18&" alt="rojalini18" /></p>
