@@ -3,9 +3,9 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=rojalini18&label=Profile%20views&color=0e75b6&style=flat" alt="rojalini18" /> </p>
 <img src="https://i.pinimg.com/originals/e7/26/c7/e726c74ac081eed50feee1433d12c998.gif" alt="kylie" width="400" align="right"/>
-- 🌱 I’m currently learning **Front-end Web Developement**
+- 🌱 I’m currently learning Front-end Web Developement
 
-- 👨‍💻 All of my projects are available at [myportfolio-amber-eight.vercel.app/](myportfolio-amber-eight.vercel.app/)
+- 👨‍💻 All of my projects are available at [https://rojalini.vercel.app/](https://rojalini.vercel.app/)
 
 - 💬 Ask me about **HTML,CSS,Javascript,React**
 
