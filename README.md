@@ -1,40 +1,39 @@
-<h1 align="center">Hi 👋, I'm Rojalini Das</h1>
-<h3 align="center">A passionate front-end developer</h3>
+# Rojalini_Das
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=rojalini18&label=Profile%20views&color=0e75b6&style=flat" alt="rojalini18" /> </p>
-<img src="https://i.pinimg.com/originals/e7/26/c7/e726c74ac081eed50feee1433d12c998.gif" alt="kylie" width="400" align="right"/>
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?lines=MERN+Developer;Software+Engineer;)](https://git.io/typing-svg)
 
-- 🌱 I’m currently learning Full-Stack Web Developement
 
-- 👨‍💻 All of my projects are available at [https://rojalini.vercel.app/](https://rojalini.vercel.app/)
+<img align='right' src="https://i.pinimg.com/originals/e7/26/c7/e726c74ac081eed50feee1433d12c998.gif" alt="kylie" height="" width="300" alt="">
 
-- 💬 Ask me about **HTML,CSS,Javascript,React**
+# 💫About Me :
 
-- 📫 How to reach me **rojalini08das@gmail.com**
+    👋 Hello, Welcome to my profile
+    🌱 I’m currently looking for an opportunity as a Full-Stack Web Developer
+    ⚡ I'm a passionate software developer
+    👀 I’m interested in problem solving and data analytics and manipulation
+    😂 I’m also having a great sense of humour with additional touch of memeing..
+    😎 I love Cricket and Binge Watching the movies for sometimes
+    📫 How to reach me -> drop me a mail at rojalini08das@gmail.com
+    ❤️ You can ping me at LinkedIn
+    
+![from](https://img.shields.io/badge/from-Bhubaneswar,Odisha-maroon)
+![focus](https://img.shields.io/badge/focus-SoftwareDevelopment-teal)
 
-<!-- - 📄 Know about my experiences [https://drive.google.com/file/d/1-mr36RZsOKqnowzb0GkWnsNc_65aXI3F/view](https://drive.google.com/file/d/1-mr36RZsOKqnowzb0GkWnsNc_65aXI3F/view) -->
 
-- ⚡ Fun fact **It's all about 0's & 1's**
+## 🌐Socials
+[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](href="https://instagram.com/drojalini18_)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/rojalini-das-11564a1a0/)
+[![Twitter](https://img.shields.io/badge/Twitter-12100E?logo=twitter&logoColor=white)](https://twitter.com/@drojalini18) 
+[![GitHub](https://img.shields.io/badge/GitHub-12100E?logo=github&logoColor=white)](https://github.com/Rojalini18) 
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://twitter.com/@drojalini18" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="@drojalini18" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/https://www.linkedin.com/in/rojalini-das-11564a1a0/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/rojalini-das-11564a1a0/" height="30" width="40" /></a>
-<a href="https://instagram.com/drojalini18_" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="drojalini18_" height="30" width="40" /></a>
-<a href="https://www.leetcode.com/rojalinidas21" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="rojalinidas21" height="30" width="40" /></a>
-</p>
+# 💻Tech Stack
+![JavaScript](https://img.shields.io/badge/javascript-%23ED8B00.svg?style=for-the-badge&logo=javascript&logoColor=white) ![HTML](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![CSS](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![React](https://img.shields.io/badge/REACT-%23FF9900.svg?style=for-the-badge&logo=react&logoColor=white) ![Redux](https://img.shields.io/badge/Redux-%234285F4.svg?style=for-the-badge&logo=redux&logoColor=white) ![Node Js](https://img.shields.io/badge/Node.js-F80000?style=for-the-badge&logo=node.js&logoColor=white) ![Express Js](https://img.shields.io/badge/express-%23000000.svg?style=for-the-badge&logo=express&logoColor=#00C7B7) ![Mongo DB](https://img.shields.io/badge/mongodb-%230769AD.svg?style=for-the-badge&logo=mongodb&logoColor=white) ![TypeScript](https://img.shields.io/badge/typescript-%236DB33F.svg?style=for-the-badge&logo=typescript&logoColor=white) ![Cypress](https://img.shields.io/badge/cypress-%2300f.svg?style=for-the-badge&logo=cypress&logoColor=white) ![Jest](https://img.shields.io/badge/Jest-323330?style=for-the-badge&logo=Jest&logoColor=white) ![BootStrap](https://img.shields.io/badge/bootstrap-%23000000.svg?style=for-the-badge&logo=bootstrap&logoColor=#FF7139) ![TailWind](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white) ![Material-UI](https://img.shields.io/badge/Material--UI-0081CB?style=for-the-badge&logo=MUI&logoColor=white) ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white) ![Canva](https://img.shields.io/badge/canva-%23000000.svg?style=for-the-badge&logo=canva&logoColor=#00C7B7) ![Netlify](https://img.shields.io/badge/netlify-%23000000.svg?style=for-the-badge&logo=netlify&logoColor=#00C7B7) ![Versel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23000000.svg?style=for-the-badge&logo=github&logoColor=#00C7B7)
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://www.photoshop.com/en" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="photoshop" width="40" height="40"/> </a> <a href="https://postman.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://redux.js.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redux/redux-original.svg" alt="redux" width="40" height="40"/> </a> <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/> </a> </p>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=rojalini18&show_icons=true&locale=en&layout=compact" alt="rojalini18" /></p><br/>
-<br/>
-<br/>
-<br/>
-<p  ><br/><br/>&nbsp;<img align="left" src="https://github-readme-stats.vercel.app/api?username=Rojalini18&show_icons=true&locale=en" alt="rojalini18" /></p>
-<br/>
-<br/>
-<br/>
-<br/>&nbsp;
-<br/>
-<p>&nbsp;<br/><br/><img align="left" src="https://github-readme-streak-stats.herokuapp.com/?user=rojalini18&" alt="rojalini18" /></p>
+# 📊GitHub Stats :
+![](https://github-readme-stats.vercel.app/api?username=Rojalini18&theme=radical&hide_border=false&include_all_commits=false&count_private=false)<br/>
+![](https://github-readme-streak-stats.herokuapp.com/?user=Rojalini18&theme=radical&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=Rojalini18&theme=radical&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+
+
+
