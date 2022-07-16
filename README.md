@@ -1,6 +1,6 @@
 # Rojalini_Das
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com/?lines=MERN+Developer;Software+Engineer;)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?lines=Full-Stack+Developer;Software+Developer+Engineer;)](https://git.io/typing-svg)
 
 
 <img align='right' src="https://i.pinimg.com/originals/e7/26/c7/e726c74ac081eed50feee1433d12c998.gif" alt="kylie" height="" width="300" alt="">
