@@ -35,5 +35,8 @@
 ![](https://github-readme-streak-stats.herokuapp.com/?user=Rojalini18&theme=radical&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=Rojalini18&theme=radical&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
-
-
+<p align="center">
+    <i>Take a look at my repositories and let's get in touch!</i>
+    <br>
+   <img alt="Thank You!" title="Thank You" src="https://img.shields.io/badge/Thank-You-ff69b4.svg"/>
+</p>
