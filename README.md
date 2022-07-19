@@ -1,20 +1,20 @@
 # Rojalini_Das
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com/?lines=Full-Stack+Developer;Software+Developer+Engineer;)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?lines=Full-Stack+Web+Developer;Software+Developer+Engineer;)](https://git.io/typing-svg)
 
 
 <img align='right' src="https://i.pinimg.com/originals/e7/26/c7/e726c74ac081eed50feee1433d12c998.gif" alt="roja" height="" width="300" alt="">
 
 # 💫About Me :
-
-    👋 Hello, Welcome to my profile
-    🌱 I’m currently looking for an opportunity as a Full-Stack Web Developer
-    ⚡ I'm a passionate software developer
-    👀 I’m interested in problem solving and data analytics and manipulation
-    😂 I’m also having a great sense of humour with additional touch of memeing..
-    😎 I love Cricket and Binge Watching the movies for sometimes
-    📫 How to reach me -> drop me a mail at rojalini08das@gmail.com
-    ❤️ You can ping me at LinkedIn
+<pre class="notranslate"><code>👋 Hello, Welcome to my profile
+🌱 I’m currently looking for an opportunity as a Full-Stack Web developer
+⚡ I'm a passionate software developer
+👀 I’m interested in problem solving and data analytics and manipulation
+😂 I’m also having a great sense of humour with additional touch of memeing..
+😎 I love Cricket, Travelling, Listening Songs, and Watching movies
+📫 To reach me -&gt; drop me a <a href='mailto:rojalini08das@gmail.com'>mail</a>
+❤️ You can ping me at <a target="blank" href='https://www.linkedin.com/in/rojalini-das-11564a1a0/'>LinkedIn</a>
+</code></pre>
     
 ![from](https://img.shields.io/badge/from-Bhubaneswar,Odisha-maroon)
 ![focus](https://img.shields.io/badge/focus-SoftwareDevelopment-teal)
