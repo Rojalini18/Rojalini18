@@ -23,7 +23,7 @@
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/rojalini-das-11564a1a0/)
 [![GitHub](https://img.shields.io/badge/github-%23000000.svg?style=for-the-badge&logo=github&logoColor=#00C7B7)](https://github.com/Rojalini18) 
 [![Portfolio](https://img.shields.io/badge/Portfolio-%23000000.svg?style=for-the-badge&logo=firefox&logoColor=#FF7139)](https://rojalini.vercel.app/)
-[![Resume](https://img.shields.io/badge/resume-1e394e.svg?style=for-the-badge&logo=resume&logoColor=white)](https://drive.google.com/file/d/1V2anfB5O6GzpFWWg8BWLyama_B808vhP/view)
+[![Resume](https://img.shields.io/badge/resume-1e394e.svg?style=for-the-badge&logo=resume&logoColor=white)](https://drive.google.com/file/d/1PU0L791Mcv6SLG8s892hyzfK1fC59AsG/view?usp=sharing)
 [![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/@drojalini18) 
 
 # 💻Tech Stack
