@@ -7,8 +7,7 @@
 
 # 💫About Me :
 <pre class="notranslate"><code>👋 Hello, Welcome to my profile
-🌱 I’m currently looking for an opportunity as a Full-Stack Web developer
-⚡ I'm a passionate software developer
+⚡ Software Developer @lattech technology.
 👀 I’m interested in problem solving and data analytics and manipulation
 😂 I’m also having a great sense of humour with additional touch of memeing..
 😎 I love Cricket, Travelling, Listening Songs, and Watching movies
