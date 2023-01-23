@@ -7,10 +7,10 @@
 
 # 💫About Me :
 <pre class="notranslate"><code>👋 Hello, Welcome to my profile
-⚡ Software Developer @Lattech Technology.
+⚡ Software Developer @Lattech Technology
 👀 I’m interested in problem solving and data analytics and manipulation
 😂 I’m also having a great sense of humour with additional touch of memeing..
-😎 I love Cricket, Travelling, Listening Songs, and Watching movies
+😎 I love Singing, Cricket, Travelling, and Playing Badminton
 📫 To reach me -&gt; drop me a <a href='mailto:rojalini08das@gmail.com'>mail</a>
 ❤️ You can ping me at <a target="blank" href='https://www.linkedin.com/in/rojalini-das-11564a1a0/'>LinkedIn</a>
 </code></pre>
