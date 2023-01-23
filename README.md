@@ -7,7 +7,7 @@
 
 # 💫About Me :
 <pre class="notranslate"><code>👋 Hello, Welcome to my profile
-⚡ Software Developer @lattech technology.
+⚡ Software Developer @Lattech Technology.
 👀 I’m interested in problem solving and data analytics and manipulation
 😂 I’m also having a great sense of humour with additional touch of memeing..
 😎 I love Cricket, Travelling, Listening Songs, and Watching movies
