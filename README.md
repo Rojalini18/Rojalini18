@@ -1,6 +1,6 @@
 # Rojalini_Das
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com/?lines=Full-Stack+Web+Developer;Software+Developer+Engineer;)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?lines=Software+Developer+Engineer;Full-Stack+Web+Developer;Mobile+App+Developer;)](https://git.io/typing-svg)
 
 
 <img align='right' src="https://i.pinimg.com/originals/e7/26/c7/e726c74ac081eed50feee1433d12c998.gif" alt="roja" height="" width="300" alt="">
@@ -21,9 +21,8 @@
 
 ## 🌐Socials
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/rojalini-das-11564a1a0/)
-[![GitHub](https://img.shields.io/badge/github-%23000000.svg?style=for-the-badge&logo=github&logoColor=#00C7B7)](https://github.com/Rojalini18) 
 [![Portfolio](https://img.shields.io/badge/Portfolio-%23000000.svg?style=for-the-badge&logo=firefox&logoColor=#FF7139)](https://rojalini.vercel.app/)
-[![Resume](https://img.shields.io/badge/resume-1e394e.svg?style=for-the-badge&logo=resume&logoColor=white)](https://drive.google.com/file/d/1uX46s9t-xLb4r80G2jhW67rgmrbQ8ta_/view)
+[![Resume](https://img.shields.io/badge/resume-1e394e.svg?style=for-the-badge&logo=resume&logoColor=white)](https://drive.google.com/file/d/1y15NRNOCZQiQc55Y69YUG79GWvPE-RPT/view?usp=drive_link)
 [![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/@drojalini18) 
 
 # 💻Tech Stack
