@@ -22,7 +22,7 @@
 ## 🌐Socials
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/rojalini-das-11564a1a0/)
 [![Portfolio](https://img.shields.io/badge/Portfolio-%23000000.svg?style=for-the-badge&logo=firefox&logoColor=#FF7139)](https://rojalini.vercel.app/)
-[![Resume](https://img.shields.io/badge/resume-1e394e.svg?style=for-the-badge&logo=resume&logoColor=white)](https://drive.google.com/file/d/1y15NRNOCZQiQc55Y69YUG79GWvPE-RPT/view?usp=drive_link)
+[![Resume](https://img.shields.io/badge/resume-1e394e.svg?style=for-the-badge&logo=resume&logoColor=white)](https://drive.google.com/file/d/1O5uEV3xGGfcdwVK1yPTsugVj32NypQoV/view)
 [![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/@drojalini18) 
 
 # 💻Tech Stack
